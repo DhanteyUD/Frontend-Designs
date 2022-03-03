@@ -1,7 +1,9 @@
-## Frontend-Designs
+## FRONTEND-DESIGN
 
 > Web App Template
 
 > HTML and CSS
 
-> # NB: Still in active development...
+---
+
+# NB: Still in active development...
