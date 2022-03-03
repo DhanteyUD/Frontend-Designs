@@ -2,6 +2,6 @@
 
 > Web App Template (HTML and CSS)
 
-![Sunnyvile](images/fruit-1.png)
+![Sunnyvile](images/view.png)
 
 # NB: Still in active development...
