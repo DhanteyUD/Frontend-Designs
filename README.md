@@ -1,8 +1,6 @@
 ## FRONTEND-DESIGN
 
-> Web App Template
-
-> HTML and CSS
+> Web App Template (HTML and CSS)
 
 ---
 
